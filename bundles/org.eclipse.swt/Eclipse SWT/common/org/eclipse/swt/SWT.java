@@ -50,6 +50,10 @@ import org.eclipse.swt.widgets.*;
  */
 public class SWT {
 
+	public static boolean isSmartestingFork() {
+		return true;
+	}
+
 	/* Widget Event Constants */
 
 	/**
